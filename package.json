@@ -1,0 +1,23 @@
+{
+  "name": "kodillaFE_week08ex03_js_comments",
+  "version": "1.0.0",
+  "description": "Comments in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psdubowik/kodilla-w08e03-js-comments.git"
+  },
+  "keywords": [
+    "js",
+    "comment"
+  ],
+  "author": "PSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psdubowik/kodilla-w08e03-js-comments/issues"
+  },
+  "homepage": "https://github.com/psdubowik/kodilla-w08e03-js-comments#readme"
+}
